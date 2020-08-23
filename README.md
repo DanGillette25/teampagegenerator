@@ -29,7 +29,13 @@
 
   ## Usage
     
-  Run app.js from your terminal and answer the prompts.  The app will create an HTML page with your org. tree based on your answers.
+  Run app.js from your terminal and answer the prompts:
+  
+  [![Screenshot](https://github.com/DanGillette25/teampagegenerator/blob/master/screenshot1.JPG?raw=true)]
+  
+  The app will create an HTML page with your org. tree based on your answers:
+  
+  [![Screenshot](https://github.com/DanGillette25/teampagegenerator/blob/master/screenshot2.JPG?raw=true)]
 
   ## Contribution 
     
